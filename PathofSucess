@@ -1,0 +1,56 @@
+turn("left");
+for (var count = 0; count < 4; count++) {
+  moveForward();
+
+}
+moveForward();
+turn("right");
+for (var count2 = 0; count2 < 5; count2++) {
+  moveForward();
+  }
+}
+turn("left");
+for (var count5 = 0; count5 < 11; count5++) {
+  moveForward();
+ }
+turn("left");
+for (var count6 = 0; count6 < 5; count6++) {
+  moveForward();
+  }
+turn("right");
+for (var count7 = 0; count7 < 1; count7++) {
+  moveForward();
+  }
+turn("right");
+for (var count8 = 0; count8 < 5; count8++) {
+  moveForward();
+}
+moveForward();
+turn("right");
+for (var count9 = 0; count9 < 8; count9++) {
+  moveForward();
+}
+for (var count10 = 0; count10 < 10; count10++) {
+}
+turn("left");
+*/
+
+/*
+for (var count11 = 0; count11 < 2; count11++) {
+}
+*/
+
+/*
+turn("right");
+  moveForward();
+});
+moveForward();
+for (var count12 = 0; count12 < 10; count12++) {
+}
+for (var count13 = 0; count13 < 2; count13++) {
+  moveForward();
+ for (var count14 = 0; count14 < 2; count14++) {
+      turn("right");
+  }
+});
+*/
