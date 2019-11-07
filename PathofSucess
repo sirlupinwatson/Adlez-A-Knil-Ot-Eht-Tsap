@@ -1,7 +1,6 @@
 turn("left");
 for (var count = 0; count < 4; count++) {
   moveForward();
-
 }
 moveForward();
 turn("right");
